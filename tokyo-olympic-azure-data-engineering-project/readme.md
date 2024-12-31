@@ -7,6 +7,8 @@
 
 This project demonstrates a complete end-to-end data engineering workflow for analyzing Olympic data using Microsoft Azure services. The workflow includes data ingestion, transformation, storage, and analytics. It serves as a practical guide to mastering Azure's cloud-based data engineering tools, including Azure Data Factory, Azure Data Lake Storage, Azure Databricks, and Azure Synapse Analytics.
 
+![Example Image](architecture_diagram.drawio.png)
+
 ---
 
 ## **Table of Contents**
